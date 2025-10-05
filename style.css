@@ -156,6 +156,7 @@
 		background-color:rgb(249,226,91);
 		color: black;
 		width: 80%;
+		min-height: 250px;
 		margin-left: 15px;
 		margin-right: 25px;
 		/*margin-top: 20px;*/
